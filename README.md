@@ -58,6 +58,6 @@ model — define as estruturas de dados
 repository — armazena os dados mockados
 ui/components — componentes visuais reutilizáveis entre as telas
 ui/screens — cada tela do aplicativo em seu próprio arquivo
-Componentes criados e reutilizados: LogoApp, BarraSuperior, BadgeSeveridade, CardEvento, CardRegiao e CardEstatistica.
+Componentes criados e reutilizados: LogoApp, BarraSuperior, BadgeSeveridade, CardEvento, CardRegiao e CardEstatistica..
 
 
